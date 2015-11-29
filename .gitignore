@@ -1,4 +1,6 @@
 
+# DDLCreator ignores
+*.exe
 Media/
 
 # Created by https://www.gitignore.io/api/visualstudio
